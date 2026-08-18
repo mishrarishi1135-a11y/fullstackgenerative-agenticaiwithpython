@@ -1,1 +1,1 @@
-# fullstackgenerative-adenticaiwithpython
+# fullstackgenerative-agenticaiwithpython
